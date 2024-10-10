@@ -1,11 +1,13 @@
 #container {
-  text-align: center;
-
+  text-align: right;
+  
   position: absolute;
   left: 0;
   right: 0;
   top: 50%;
   transform: translateY(-50%);
+
+  background-color: #FF8C00; /* Warna latar belakang oranye */
 }
 
 #container strong {
@@ -16,9 +18,7 @@
 #container p {
   font-size: 16px;
   line-height: 22px;
-
-  color: #8c8c8c;
-
+  color: #fc6101;
   margin: 0;
 }
 
